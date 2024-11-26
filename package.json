@@ -1,0 +1,15 @@
+{
+  "name": "usdtorubtest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Ruslan Gerashenko",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "investing-com-api": "^4.4.0",
+    "puppeteer-core": "^23.9.0"
+  }
+}
